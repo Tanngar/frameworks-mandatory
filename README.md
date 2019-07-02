@@ -1,3 +1,17 @@
+## First mandatory assigment for frameworks course.
+
+The purpose of this exercise was to create a simple website for questions and answers by using MERN stack. As part of this assigment, we also had to familiarize ourselves with the deployment process of applications made with MERN through heroku.
+
+Assignment had the following requirements:
+• Posting questions.
+• Posting answers to questions.
+• Browsing all previously posted questions and answers.
+• Voting on answers. Each answer will have a score of votes.
+• Each question should have a unique URL in the app.
+
+Live version:
+https://deployment-test-12.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
